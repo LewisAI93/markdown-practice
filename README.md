@@ -1,50 +1,27 @@
-<h1>Manchester United</h1>
+# Manchester United
 
-<b><p>Manchester United once was the greatest English football team</p></b>
+**Manchester United once was the greatest English football team**
 
-<i><p>Now, they are struggling to be amongst the European Elite</i></p>
+*Now, they are struggling to be amongst the European Elite*
 
-<b><i><p>Yet they still excite many fans everytime the players step on the pitch</b></i></p>
+***Yet they still excite many fans everytime the players step on the pitch***
 
-<h2>Good points</h2>
-<ul>
-  <li>Good attacking play</li>
-  <li>Many international players</li>
-</ul>
+## Good points
+- Good attacking play
+- Many international players
 
-<h3>Bad points</h3>
-<ol>
-  <li>S#@! defending</li>
-  <li>Players turn up just for their £150,000 a week wage</li>
-</ol>
+### Bad points
+1. S#@! defending  
+2. Players turn up just for their £150,000 a week wage
 
-<a href ="https://en.wikipedia.org/wiki/Manchester_United_F.C.">Wiki page</a>
+[Wiki page](https://en.wikipedia.org/wiki/Manchester_United_F.C.)
 
-</br>
-</br>
-
-```
+```python
 def score_goal(team, scorer):
     print(f"GOAL! {team} scores! {scorer} finds the net.")
+
 ```
-
-</br>
-</br>
-
-<table>
-  <tr>
-    <th>Team</th>
-    <th>City</th>
-  </tr>
-  <tr>
-    <td>Manchester United</td>
-    <td>Manchester</td>
-  </tr>
-  <tr>
-    <td>Arsenal</td>
-    <td>London</td>
-  </tr>
-</table>
-    
-
-
+|     Team      |       City     |
+| :-----------: | :------------: |
+|    Arsenal    |     London     |
+|    Man Utd    |   Manchester   |
